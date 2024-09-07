@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab_5_1_Fragments</string>
+    <string name="title_Principal">Principal</string>
+    <string name="title_Musica">Musica</string>
+    <string name="title_Registro">Registro</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

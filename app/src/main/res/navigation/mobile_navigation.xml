@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navPrincipal">
+    <fragment
+        android:id="@+id/navMusica"
+        android:name="dev.joawhi.lab_5_1_fragments.ui.fragments.MusicaFragment"
+        android:label="@string/title_Musica"
+        tools:layout="@layout/fragment_music" />
+    <fragment
+        android:id="@+id/navRegistro"
+        android:name="dev.joawhi.lab_5_1_fragments.ui.fragments.RegistroFragment"
+        android:label="@string/title_Registro"
+        tools:layout="@layout/fragment_registro" />
+    <fragment
+        android:id="@+id/navPrincipal"
+        android:name="dev.joawhi.lab_5_1_fragments.ui.fragments.PrincipalFragment"
+        android:label="@string/title_Principal"
+        tools:layout="@layout/fragment_principal" />
+</navigation>
