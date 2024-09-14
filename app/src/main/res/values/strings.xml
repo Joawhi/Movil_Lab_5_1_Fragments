@@ -5,4 +5,21 @@
     <string name="title_Registro">Registro</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="valTitlePrincial">GRAFMNETOS CON ANDROID</string>
+    <string name="valRbMale">Male</string>
+    <string name="valRbFemale">Female</string>
+    <string name="valRbOther">Unespecified</string>
+    <string name="ckValCar">Have a car?</string>
+    <string name="ckValLicense">Driver license</string>
+    <string name="btnValSave">Save</string>
+    <string-array name="country_array">
+        <item>Argentina</item>
+        <item>Venezuela</item>
+        <item>Colombia</item>
+        <item>Uruguay</item>
+        <item>Brasil</item>
+        <item>Ecudor</item>
+        <item>Bolivia</item>
+        <item>Perú</item>
+    </string-array>
 </resources>
